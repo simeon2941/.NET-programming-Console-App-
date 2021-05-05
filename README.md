@@ -1,6 +1,6 @@
 # World of ConflictCraft Console Application
-
-This simple console application presents user with a menue where the user can pick one of the following options.
+<br /> 
+This simple console application presents user with a menue where the user can pick one of the following options. <br /> 
 1.Print All Players -- print a list of all Players.
 2.Print All Guilds -- print the names of all Guilds.
 3.Print All Gear -- print a list of all Items.
