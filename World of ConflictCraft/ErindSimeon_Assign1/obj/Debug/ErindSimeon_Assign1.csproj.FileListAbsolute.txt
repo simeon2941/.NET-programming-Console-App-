@@ -1,0 +1,7 @@
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assign1\ErindSimeon_Assign1\obj\Debug\ErindSimeon_Assign1.csprojAssemblyReference.cache
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assign1\ErindSimeon_Assign1\obj\Debug\ErindSimeon_Assign1.csproj.CoreCompileInputs.cache
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assign1\ErindSimeon_Assign1\bin\Debug\ErindSimeon_Assign1.exe.config
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assign1\ErindSimeon_Assign1\bin\Debug\ErindSimeon_Assign1.exe
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assign1\ErindSimeon_Assign1\bin\Debug\ErindSimeon_Assign1.pdb
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assign1\ErindSimeon_Assign1\obj\Debug\ErindSimeon_Assign1.exe
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assign1\ErindSimeon_Assign1\obj\Debug\ErindSimeon_Assign1.pdb
