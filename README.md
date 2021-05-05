@@ -1,9 +1,9 @@
 # World of ConflictCraft Console Application
 <br /> 
 This simple console application presents user with a menue where the user can pick one of the following options. <br /> 
-1.Print All Players -- print a list of all Players.
-2.Print All Guilds -- print the names of all Guilds.
-3.Print All Gear -- print a list of all Items.
+1.Print All Players -- print a list of all Players.<br /> 
+2.Print All Guilds -- print the names of all Guilds.<br /> 
+3.Print All Gear -- print a list of all Items.<br /> 
 4.Print Gear List for Player -- get a Player name and print their gear list.
 5.Leave Guild -- get a Player name and leave their Guild (only if they are in one).
 6.Join Guild -- get a Player and Guild name, and have that Player "join".
