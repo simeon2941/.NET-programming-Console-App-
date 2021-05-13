@@ -12,3 +12,7 @@ This simple console application presents user with a menue where the user can pi
 9.Award Experience -- get a Player name and experience amount to award. <br /> 
 10.Quit -- triggered by entering "10", "q", "Q", "quit", "Quit", "exit", or "Exit". <br /> 
 (Hidden Option) Accessed by entering in "T" for the IComparable testing method. <br /> 
+
+
+![image](https://user-images.githubusercontent.com/75691955/118147274-064c4600-b3d5-11eb-90a6-3d62dff9df60.png)
+
